@@ -1,2 +1,2 @@
 #!/bin/bash
-cwown -r vincent:staff .
+cwown -R vincent:staff .
